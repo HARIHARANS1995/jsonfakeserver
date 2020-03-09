@@ -1,6 +1,6 @@
-
 {
   "posts": [
+   
   "Adminsignup": {
   "AdminID": "1",
     "FirstName": "lhj",
@@ -18,7 +18,10 @@
     "RegisteredBy": "fghxfg",
     "UpdatedDate": "12/03/1995",
     "UpdatedBy": "sey",
-    "AdminStatus": "0"
-  }
-    ]
+    "AdminStatus": "0" 
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
