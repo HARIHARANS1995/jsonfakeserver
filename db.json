@@ -1,6 +1,7 @@
+
 {
   "posts": [
-    {     
+    { 
     "AdminID": "1",
     "FirstName": "lhj",
     "LastName": "oijoi",
@@ -17,10 +18,11 @@
     "RegisteredBy": "fghxfg",
     "UpdatedDate": "12/03/1995",
     "UpdatedBy": "sey",
-    "AdminStatus": "0"}
-  ]
+    "AdminStatus": "0"
+    }
+  ],
   "comments": [
-      {     
+    {
     "AdminID": "1",
     "FirstName": "lhj",
     "LastName": "oijoi",
@@ -37,10 +39,11 @@
     "RegisteredBy": "fghxfg",
     "UpdatedDate": "12/03/1995",
     "UpdatedBy": "sey",
-    "AdminStatus": "0"}
-  ]
-  "profile":    {     
-    "AdminID": "1",
+    "AdminStatus": "0"
+    }
+  ],
+  "profile": {
+  "AdminID": "1",
     "FirstName": "lhj",
     "LastName": "oijoi",
     "ContactCountryID": "IN",
@@ -56,6 +59,6 @@
     "RegisteredBy": "fghxfg",
     "UpdatedDate": "12/03/1995",
     "UpdatedBy": "sey",
-    "AdminStatus": "0"}
-}
+    "AdminStatus": "0"
+  }
 }
