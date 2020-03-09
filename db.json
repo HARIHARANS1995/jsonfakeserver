@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Admin": [
+    {     
+    "AdminID": "1",
+    "FirstName": "lhj",
+    "LastName": "oijoi",
+    "ContactCountryID": "IN",
+    "ContactNumber": "526466",
+    "CNVarified": "yes",
+    "Emailid": "dsg@fxdhd.cf",
+    "EmailVarified": "yes",
+    "Address": "asfws",
+    "ZipCode": "21535",
+    "Username": "sazfgsadg",
+    "Password": "sdgfdfgv",
+    "RegisteredDate": "12/03/1995",
+    "RegisteredBy": "fghxfg",
+    "UpdatedDate": "12/03/1995",
+    "UpdatedBy": "sey",
+    "AdminStatus": "0"}
+  ]
 }
