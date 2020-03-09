@@ -1,7 +1,7 @@
 {
   "posts": [
    
-  "Adminsignup": {
+  "Adminsignup": [
   "AdminID": "1",
     "FirstName": "lhj",
     "LastName": "oijoi",
@@ -24,4 +24,4 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" }
-}
+]}
